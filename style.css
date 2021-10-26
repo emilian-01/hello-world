@@ -1,0 +1,97 @@
+img#firstImg{
+	margin-top: 5px;
+	width: 100%;
+}
+img.ewsa{
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+a {
+			display: block;
+			color: #220088;
+			padding: 8px 16px;
+			text-decoration: none;
+}
+h1, h2, h3{
+	text-align: center;
+	color: #000055;
+	font-family: Benton Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+p{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	font-family: "Century Gothic";
+}
+body{
+	background-color: #ccffff;
+}
+nav{
+	text-align: center;
+	display: inline-block;
+	background-color: #c0b0b0;
+	padding: 8px 16px;
+	width: 98%;
+	
+}
+div.menuDiv{
+	display: inline-block;
+}
+div#ytvid{
+	margin-left: 20%;
+}
+iframe#vidframe{
+	width: 900;
+	height: 507;
+}
+#musicdiv{
+	margin-left: 20%;
+}
+iframe#musicframe{
+	width: 75%;
+}
+#earthimages, #waterimages, #snowimages, #airimages{
+	width: 75%;
+	display: inline-block;
+	float: right;
+}
+#earthlist, #waterlist, #snowlist, #airlist{
+	width: 20%;
+	display: inline-block;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	width: 150px;
+	font-family: "Georgia";
+	font-size: 15px;
+	color: red;
+}
+label{
+	font-size: 20px;
+	color: #660077;
+}
+input{
+	font-family: "Perpetua";
+	font-size: 20px;
+}
+textarea#cmessage{
+	width: 300px;
+	height: 100px;
+}
+button#csendb{
+	border: none;
+	height: 40px;
+	width: 80px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+}
+#ski{
+	position: relative;
+	cursor: pointer;
+}
